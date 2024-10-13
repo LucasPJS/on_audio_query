@@ -1,3 +1,9 @@
+## [[2.9.1]]
+
+## Fixes
+
+- **Fixed** namespace and java version. - [#154](https://github.com/LucJosin/on_audio_query/issues/154)
+
 ## [[2.9.0](https://github.com/LucJosin/on_audio_query/releases/tag/2.9.0)]
 
 ### Features

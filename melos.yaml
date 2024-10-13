@@ -1,5 +1,5 @@
 name: on_audio_query
-repository: https://github.com/LucJosin/on_audio_query
+repository: https://github.com/Sanjarbek17/on_audio_query
 
 packages:
   - packages/*

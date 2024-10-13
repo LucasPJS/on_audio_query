@@ -3,10 +3,10 @@
 # github: https://github.com/LucJosin
 # website: https://www.lucasjosino.com/
 # ========
-name: on_audio_query
-description: Flutter Plugin used to query audios/songs infos [title, artist, album, etc..] from device storage.
-version: 2.9.0
-homepage: https://github.com/LucJosin/on_audio_query/tree/main/packages/on_audio_query
+name: on_audio_query_forked
+description: Flutter Plugin used to query audios/songs infos [title, artist, album, etc..] from device storage. This is not original plugin, this is a forked version.
+version: 2.9.1
+homepage: https://github.com/Sanjarbek17/on_audio_query/tree/main/packages/on_audio_query
 issue_tracker: https://github.com/LucJosin/on_audio_query/issues
 # pub.dev: https://pub.dev/packages/on_audio_query
 topics:
@@ -15,8 +15,6 @@ topics:
   - audioquery
   - on-audio-query
   - storage
-  - mediastore
-  - mpmediaquery
 
 environment:
   sdk: ">=2.17.0 <4.0.0"
@@ -27,7 +25,7 @@ dependencies:
   on_audio_query_platform_interface: ^1.7.0
   on_audio_query_web: ^1.6.0
   on_audio_query_ios: ^1.1.0
-  on_audio_query_android: ^1.1.0
+  on_audio_query_android_v1_8: ^1.1.1
 
   # Flutter
   flutter:

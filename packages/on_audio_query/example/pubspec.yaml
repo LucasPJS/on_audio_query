@@ -12,7 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  on_audio_query:
+  on_audio_query_forked:
     # When depending on this package from a real application you should use:
     #   on_audio_query: ^x.y.z
     # See https://dart.dev/tools/pub/dependencies#version-constraints

@@ -1,9 +1,11 @@
 <div align=center>
 
-# on_audio_query
+# on_audio_query_forked
 [![Pub.dev](https://img.shields.io/pub/v/on_audio_query?color=9cf&label=Pub.dev&style=flat-square)](https://pub.dev/packages/on_audio_query)
 [![Platforms](https://img.shields.io/badge/Platforms-Android%20%7C%20IOS%20%7C%20Web-9cf?&style=flat-square)]()
 [![Languages](https://img.shields.io/badge/Languages-Dart%20%7C%20Kotlin%20%7C%20Swift-9cf?&style=flat-square)]()
+
+This is not an official plugin! This is a fork of the original plugin [flutter_audio_query](https://pub.dev/packages/flutter_audio_query) with some improvements and new features. <br>
 
 [Flutter](https://flutter.dev/) Plugin used to query audios/songs 🎶 infos [title, artist, album, etc..] from device storage. <br>
 
