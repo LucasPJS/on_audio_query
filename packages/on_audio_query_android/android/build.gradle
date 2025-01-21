@@ -26,6 +26,7 @@ apply plugin: 'kotlin-android'
 
 android {
     compileSdkVersion 33
+    namespace = "com.lucasjosino.on_audio_query"
 
     sourceSets {
         main.java.srcDirs += 'src/main/kotlin'
